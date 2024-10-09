@@ -1,0 +1,96 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.main-area {
+    padding: 20px;
+    background-color: rgba(248, 211, 4, 0.938);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); 
+}
+
+.section {
+    margin-bottom: 40px;
+    width: 100%; 
+    max-width: 1200px;
+    background-color: rgba(255, 255, 255, 0.9); 
+    border-radius: 8px; 
+    padding: 20px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+}
+
+.restaurant-grid {
+    display: flex; 
+    justify-content: space-around; 
+}
+
+.hall {
+    flex: 1; 
+    margin: 0 10px; 
+    text-align: center; 
+}
+
+.hall img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 10px; 
+}
+
+.dishes-grid {
+    display: flex; 
+    justify-content: space-around; 
+    flex-wrap: wrap; 
+}
+
+.dish {
+    flex: 1; 
+    margin: 10px; 
+    max-width: 200px; 
+    text-align: center;
+}
+
+.dish img {
+    width: 100%; 
+    height: auto; 
+    border-radius: 10px; 
+}
+
+.countries-grid {
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+}
+
+.country {
+    flex: 1;
+    margin: 10px; 
+    max-width: 200px; 
+    text-align: center; 
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5rem; 
+    margin-bottom: 20px;
+    color: #333; 
+}
+
+h2 {
+    margin: 10px 0;
+    color: #066b0d;
+}
+.dish-number {
+    font-weight: bold; /* Сделать номер жирным */
+    font-size: 1.5rem; /* Увеличить размер шрифта */
+    color: #318335; /* Цвет для номеров */
+    display: block; /* Блоковый элемент для переноса на новую строку */
+    margin-bottom: 5px; /* Отступ снизу */
+}
