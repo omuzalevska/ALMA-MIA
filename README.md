@@ -10,6 +10,8 @@ The main colors for the style are green, gold, white and black.
 The countries are: Venezuela, Spain, Ethiopia, Ukraine and Russia.
 Look at the dishes on the page, you won't regret it :) 
 
+The most difficult parts of the project will probably be json and preparing the presentation of our work!
+
 ![Won't regret](https://media1.tenor.com/m/2EMS_nhKsdcAAAAd/jake-dimera-days-of-our-lives.gif)
 
 
