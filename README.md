@@ -1,34 +1,16 @@
 # ALMA-MIA
 
-# 🍴 Experience "Alma Mia"
+Here is the process of creating our project "Alma Mia"
 
-![Alma Mia](https://link-to-your-restaurant-image.jpg)
+On the first day, the presentation topic was chosen, a Github repository and main were created
 
-## Our Culinary Story
-At **Alma Mia**, we bring together the best of traditional cuisines from five amazing countries. Join us and taste the magic!
+We chose traditional cuisine from different countries of the world as our theme! We discussed the design of the main page of the site, the colors that will be used in the project, selected the most interesting and attractive dishes, the countries were chosen according to our common opinion. The logo was created manually using AI technology
 
-## 🌟 Dishes You Can't Miss
-- **Paella**: A Spanish classic.
-- **Arepa**: A delicious Venezuelan staple.
-- **Doro Wat**: Spicy Ethiopian chicken stew.
-- **Borscht**: Ukrainian comfort food at its finest.
-- **Pelmeni**: Russian dumplings, a must-try!
+The main colors for the style are green, gold, white and black.
+The countries are: Venezuela, Spain, Ethiopia, Ukraine and Russia.
+Look at the dishes on the page, you won't regret it :) 
 
-## 🕰️ When to Visit
-- **Monday - Friday**: 10 AM - 10 PM
-- **Saturday - Sunday**: 12 PM - 11 PM
+![Won't regret](https://tenor.com/ru/view/jake-dimera-days-of-our-lives-dool-you-wont-regret-it-promise-gif-22916239)
 
-## 📍 Location
-**Flavor Street, 123, Your City**
 
-## 📞 Contact Information
-- **Phone**: (123) 456-7890
-- **Email**: info@almamia.com
 
-## 🌐 Stay Connected
-Follow us for updates and special offers:
-- [Instagram](https://instagram.com/yourrestaurant)
-- [Facebook](https://facebook.com/yourrestaurant)
-
----
-Como ejemplo
