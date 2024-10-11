@@ -12,8 +12,8 @@ fetchHousesJson().then(house => {
 
         let id  = house.houses[index].id;
         let image  = house.houses[index].image;
-        let price  = house.houses[index].price;
-        let city  = house.houses[index].city;
+        let nombre  = house.houses[index].nombre;
+        let pais  = house.houses[index].pais;
         let description  = house.houses[index].description;
         
         houseSection.innerHTML += `
@@ -21,13 +21,13 @@ fetchHousesJson().then(house => {
             <div class="card" style="width: 18rem;">
             <img src="${image}" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">${id}. ${city} ${price}€</h5>
+                <h5 class="card-title">${id}. ${pais} ${nombre}</h5>
                 <p class="card-text">${description}</p>
             </div>
            
             </div>
 
-        `
+        
 
     }
 })
