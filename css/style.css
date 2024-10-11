@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: URL('../Images/oro.jpg');
+    background-image: URL('../Images/Fondo\ oro\ 1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -90,9 +90,9 @@ h2 {
     color: #066b0d;
 }
 .dish-number {
-    font-weight: bold; /* Сделать номер жирным */
-    font-size: 1.5rem; /* Увеличить размер шрифта */
-    color: #318335; /* Цвет для номеров */
-    display: block; /* Блоковый элемент для переноса на новую строку */
-    margin-bottom: 5px; /* Отступ снизу */
+    font-weight: bold; 
+    font-size: 1.5rem; 
+    color: #318335; 
+    display: block; 
+    margin-bottom: 5px; 
 }

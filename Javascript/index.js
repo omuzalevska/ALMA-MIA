@@ -25,9 +25,9 @@ fetchHousesJson().then(house => {
                 <p class="card-text">${description}</p>
             </div>
            
-            </div>
+            </div> 
 
-        
+            `
 
     }
 })

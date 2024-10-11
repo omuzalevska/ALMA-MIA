@@ -1,4 +1,4 @@
-"Restaurante": 
+{"Restaurante":  [
     {
       "id": 1,
       "image": "Images/PABELLON.jpg",
@@ -33,5 +33,6 @@
       "nombre": "Inyera",
       "pais": "Etiopia",
       "description": "A traditional Ethiopian flatbread served with a variety of spicy stews and fresh vegetables."
-
-    }
+    }   
+  ]
+}
