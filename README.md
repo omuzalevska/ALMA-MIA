@@ -10,7 +10,7 @@ The main colors for the style are green, gold, white and black.
 The countries are: Venezuela, Spain, Ethiopia, Ukraine and Russia.
 Look at the dishes on the page, you won't regret it :) 
 
-![Won't regret](https://tenor.com/ru/view/jake-dimera-days-of-our-lives-dool-you-wont-regret-it-promise-gif-22916239)
+![Won't regret](https://media1.tenor.com/m/2EMS_nhKsdcAAAAd/jake-dimera-days-of-our-lives.gif)
 
 
 
